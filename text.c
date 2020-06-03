@@ -1,5 +1,5 @@
 #include<stdio.h>
-int mian(){
+int main(){
   printf("hh");
   return 0;
 }
